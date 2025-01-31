@@ -1,0 +1,9 @@
+/.idea/*
+/logcapture-0-0-1738278200000/*
+/Eble residence_2025-01-30-110351_DiagnosticReports.tgz
+/backend/app/__pycache__
+/frontend/.next
+/frontend/node_modules
+frontend/.DS_Store
+backend/.DS_Store
+.DS_Store
